@@ -1,0 +1,49 @@
+# Cartelle di build
+build/
+dist/
+__pycache__/
+*.pyc
+
+# File di ambiente
+.env
+venv/
+env/
+
+# File di IDE
+.vscode/
+.idea/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di log
+*.log
+
+# File temporanei
+*.tmp
+*.temp
+
+# File di backup
+*.bak
+*.backup
+
+# File di database
+*.db
+*.sqlite
+*.sqlite3
+
+# File di configurazione locale
+config.ini
+settings.json
+
+# File di cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# File di distribuzione
+*.spec
+*.zip
+*.exe 
